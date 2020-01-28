@@ -1,0 +1,9 @@
+C:\Users\Анастасия Шпит\Desktop\Google Диск\Study Folder\ТПР\ТПР лаб р 2\bin\Debug\ТПР лаб р 2.exe.config
+C:\Users\Анастасия Шпит\Desktop\Google Диск\Study Folder\ТПР\ТПР лаб р 2\bin\Debug\ТПР лаб р 2.exe
+C:\Users\Анастасия Шпит\Desktop\Google Диск\Study Folder\ТПР\ТПР лаб р 2\bin\Debug\ТПР лаб р 2.pdb
+C:\Users\Анастасия Шпит\Desktop\Google Диск\Study Folder\ТПР\ТПР лаб р 2\obj\Debug\ТПР лаб р 2.csprojAssemblyReference.cache
+C:\Users\Анастасия Шпит\Desktop\Google Диск\Study Folder\ТПР\ТПР лаб р 2\obj\Debug\ТПР_лаб_р_2.Form1.resources
+C:\Users\Анастасия Шпит\Desktop\Google Диск\Study Folder\ТПР\ТПР лаб р 2\obj\Debug\ТПР_лаб_р_2.Properties.Resources.resources
+C:\Users\Анастасия Шпит\Desktop\Google Диск\Study Folder\ТПР\ТПР лаб р 2\obj\Debug\ТПР лаб р 2.csproj.GenerateResource.cache
+C:\Users\Анастасия Шпит\Desktop\Google Диск\Study Folder\ТПР\ТПР лаб р 2\obj\Debug\ТПР лаб р 2.exe
+C:\Users\Анастасия Шпит\Desktop\Google Диск\Study Folder\ТПР\ТПР лаб р 2\obj\Debug\ТПР лаб р 2.pdb
